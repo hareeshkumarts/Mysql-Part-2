@@ -1,0 +1,11 @@
+Employee_Emp_Id,Prime_Membership_Active_Status,Enrollment_Date,End_Date
+G1,Yes,12 02 2012,
+Y1,Yes,11 11 2011,
+G3,No,12 02 2012,12 02 2015
+H1,No,12 12 2012,12 12 2013
+O1,Yes,12 12 2012,
+H2,Yes,03 06 2015,
+G2,Yes,25 11 2016,
+Y2,No,09 09 2009,09 09 2010
+O3,Yes,06 09 2016,
+H4,No,11 12 2014,11 12 2017
